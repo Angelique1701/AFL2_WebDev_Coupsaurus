@@ -10,8 +10,9 @@
 
             <div class="col-md-4 text-center text-md-end mt-4 mt-md-0">
                 <!-- Social Links -->
-                <a href="#" class="text-light text-decoration-none me-3">INSTAGRAM</a>
-                <a href="#" class="text-light text-decoration-none">LINKTREE</a>
+                <a href="#" class="text-light text-decoration-none">INSTAGRAM</a>
+                <a href="#" class="text-light text-decoration-none">SHOPEE</a>
+                <a href="#" class="text-light text-decoration-none">TOKOPEDIA</a>
             </div>
         </div>
 
@@ -21,6 +22,7 @@
             <div class="col-md-6">
                 <ul class="list-unstyled small mb-0">
                     <li><a href="#" class="text-light text-decoration-none">OUR STORY</a></li>
+                    <li><a href="#" class="text-light text-decoration-none">E-CATALOG</a></li>
                     <li><a href="#" class="text-light text-decoration-none">CONTACT US</a></li>
                 </ul>
             </div>
