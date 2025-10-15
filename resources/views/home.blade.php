@@ -7,5 +7,11 @@
     <link rel="stylesheet" href="css/navigation.css">
 </head>
 <body>
-    @include('layout.nav')
-    @include('layout.footer')
+    @extends('layout.mainlayout')
+
+    @section('content')
+    <div class="container my-5 text-center">
+        <h1>Welcome to COUPSAURUS</h1>
+        <p>Enjoy shopping with us!</p>
+    </div>
+    @endsection
